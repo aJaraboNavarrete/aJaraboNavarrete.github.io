@@ -1,0 +1,12 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  color: white;
+  background-color: black;
+}
+
+a:link{color: blue; font-family: Arial; font-size: 12;}
+a:visited{color: red; font-family: Arial; font-size: 12;}
+a:hover{color: green; font-family: Arial; font-size: 16;}
